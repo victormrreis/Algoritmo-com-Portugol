@@ -4,7 +4,7 @@ programa
 	funcao inicio()
 	{
 		cadeia nome
-		escreva("Como você se chama? \n")
+		escreva("Olá! Como você se chama? \n")
 		leia(nome) //Coleta uma entrada/input do usuário e armazena o valor a variável "nome"
 		escreva("Seu nome é ", nome) //Exibe uma mensagem contendo também o valor inserido pelo usuário na variável
 	}
@@ -14,7 +14,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 153; 
+ * @POSICAO-CURSOR = 63; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
