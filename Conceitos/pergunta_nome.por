@@ -7,7 +7,7 @@ programa
 	{
 		cadeia nome	
 
-		escreva ("Qual é o seu nome? ")
+		escreva ("Qual é o seu nome? \n")
 		leia(nome)		
 
 		escreva("Olá, ", nome, "!")
@@ -18,7 +18,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 208; 
+ * @POSICAO-CURSOR = 155; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
